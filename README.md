@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/HetaviDesai/All-leetcode-questions/tree/master/0021-merge-two-sorted-lists) |
+| [0086-partition-list](https://github.com/HetaviDesai/All-leetcode-questions/tree/master/0086-partition-list) |
 | [0148-sort-list](https://github.com/HetaviDesai/All-leetcode-questions/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/HetaviDesai/All-leetcode-questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/HetaviDesai/All-leetcode-questions/tree/master/1721-swapping-nodes-in-a-linked-list) |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0086-partition-list](https://github.com/HetaviDesai/All-leetcode-questions/tree/master/0086-partition-list) |
 | [0148-sort-list](https://github.com/HetaviDesai/All-leetcode-questions/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/HetaviDesai/All-leetcode-questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/HetaviDesai/All-leetcode-questions/tree/master/1721-swapping-nodes-in-a-linked-list) |
