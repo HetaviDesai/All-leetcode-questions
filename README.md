@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/HetaviDesai/All-leetcode-questions/tree/master/0020-valid-parentheses) |
 | [0503-next-greater-element-ii](https://github.com/HetaviDesai/All-leetcode-questions/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/HetaviDesai/All-leetcode-questions/tree/master/0682-baseball-game) |
+| [0901-online-stock-span](https://github.com/HetaviDesai/All-leetcode-questions/tree/master/0901-online-stock-span) |
 | [2487-remove-nodes-from-linked-list](https://github.com/HetaviDesai/All-leetcode-questions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Bracket Sequences
 |  |
@@ -71,5 +72,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/HetaviDesai/All-leetcode-questions/tree/master/0503-next-greater-element-ii) |
+| [0901-online-stock-span](https://github.com/HetaviDesai/All-leetcode-questions/tree/master/0901-online-stock-span) |
 | [2487-remove-nodes-from-linked-list](https://github.com/HetaviDesai/All-leetcode-questions/tree/master/2487-remove-nodes-from-linked-list) |
+## Design
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/HetaviDesai/All-leetcode-questions/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/HetaviDesai/All-leetcode-questions/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
