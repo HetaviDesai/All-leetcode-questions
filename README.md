@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0485-max-consecutive-ones](https://github.com/HetaviDesai/All-leetcode-questions/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/HetaviDesai/All-leetcode-questions/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/HetaviDesai/All-leetcode-questions/tree/master/0682-baseball-game) |
 ## Simulation
