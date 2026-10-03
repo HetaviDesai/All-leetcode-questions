@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/HetaviDesai/All-leetcode-questions/tree/master/0021-merge-two-sorted-lists) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/HetaviDesai/All-leetcode-questions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2487-remove-nodes-from-linked-list](https://github.com/HetaviDesai/All-leetcode-questions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Divide and Conquer
 |  |
@@ -67,10 +68,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/HetaviDesai/All-leetcode-questions/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/HetaviDesai/All-leetcode-questions/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/HetaviDesai/All-leetcode-questions/tree/master/0682-baseball-game) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/HetaviDesai/All-leetcode-questions/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Simulation
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/HetaviDesai/All-leetcode-questions/tree/master/0682-baseball-game) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/HetaviDesai/All-leetcode-questions/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -85,4 +88,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/HetaviDesai/All-leetcode-questions/tree/master/0901-online-stock-span) |
+## Math
+|  |
+| ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/HetaviDesai/All-leetcode-questions/tree/master/1823-find-the-winner-of-the-circular-game) |
+## Queue
+|  |
+| ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/HetaviDesai/All-leetcode-questions/tree/master/1823-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
