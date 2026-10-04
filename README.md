@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/HetaviDesai/All-leetcode-questions/tree/master/0020-valid-parentheses) |
+| [0232-implement-queue-using-stacks](https://github.com/HetaviDesai/All-leetcode-questions/tree/master/0232-implement-queue-using-stacks) |
 | [0503-next-greater-element-ii](https://github.com/HetaviDesai/All-leetcode-questions/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/HetaviDesai/All-leetcode-questions/tree/master/0682-baseball-game) |
 | [0901-online-stock-span](https://github.com/HetaviDesai/All-leetcode-questions/tree/master/0901-online-stock-span) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/HetaviDesai/All-leetcode-questions/tree/master/0232-implement-queue-using-stacks) |
 | [0901-online-stock-span](https://github.com/HetaviDesai/All-leetcode-questions/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
@@ -95,5 +97,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/HetaviDesai/All-leetcode-questions/tree/master/0232-implement-queue-using-stacks) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/HetaviDesai/All-leetcode-questions/tree/master/1823-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
